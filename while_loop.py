@@ -6,4 +6,4 @@ while num<10 :
       
       print(f'{num} hacked!')
       
-    num+=1
+    num+=1 #  += is plus 1 to origin's value.
